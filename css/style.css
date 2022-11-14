@@ -1,0 +1,138 @@
+/* Global styles */
+body,
+html {
+  height: 100%;
+  font-family: Lato, Arial, sans-serif;
+  overflow-x: hidden;
+}
+
+/* Home Section */
+#home {
+  background: url("../images/backgrounds/h_img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+#home .home-details .logo {
+  height: 55px;
+  width: 55px;
+}
+
+#home .scroll-down {
+  position: absolute;
+  bottom: 1.3rem;
+}
+
+#home .scroll-down button {
+  height: 2.4rem;
+  width: 1.5rem;
+  line-height: 1.3rem;
+  background: transparent;
+  border: 2px solid #fff;
+  cursor: pointer;
+  transform: rotate(180deg);
+}
+
+/* Services Section */
+#services {
+  background: url("../images/backgrounds/s_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 480px;
+  height: auto;
+}
+
+/* What we do section */
+#what-we-do {
+  min-height: 450px;
+  display: flex;
+  align-items: center;
+}
+
+#what-we-do .service {
+  cursor: pointer;
+}
+
+#what-we-do .service .service-details {
+  display: none;
+}
+
+/* Portfolio section */
+#portfolio {
+  cursor: pointer;
+}
+
+#portfolio .project {
+  transition: all 0.3s linear;
+}
+
+#portfolio .project .project-name {
+  top: 46%;
+  text-align: center;
+  width: 100%;
+  color: #fff;
+  font-weight: bold;
+  z-index: 1;
+  display: none;
+  transition: all 0.5s linear;
+  text-transform: uppercase;
+}
+
+#portfolio .project::before {
+  width: 0%;
+  height: 0%;
+  position: absolute;
+  content: "";
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 0;
+  transition: all 0.3s;
+  top: 50%;
+  transform-origin: 50% 50%;
+  left: 50%;
+}
+
+#portfolio .project:hover::before {
+  width: 100%;
+  height: 100%;
+  transform: translate(-50%, -50%);
+}
+
+#portfolio .project:hover .project-name {
+  display: block;
+}
+
+/* Contact section */
+#contact {
+  background: url("../images/backgrounds/c_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#contact input {
+  height: 45px;
+}
+
+#contact input,
+#contact textarea {
+  background: transparent;
+  border-radius: 0;
+  color: #fff;
+}
+
+#contact input::placeholder,
+#contact textarea::placeholder {
+  color: #cccccc;
+}
+
+#contact input:focus, #contact input:active,
+#contact textarea:focus,
+#contact textarea:active {
+  box-shadow: none;
+  border-color: #fff;
+}
+
+#contact button:focus, #contact button:active {
+  box-shadow: none;
+  border-color: #fff;
+}
