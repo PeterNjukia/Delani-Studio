@@ -1,24 +1,30 @@
 # Delani Studio
 African culture is expressed in its arts and crafts, religion, clothing, cuisine, music, languages and names.
 
+## Author
+
+[Peter Njukia](https://github.com/chunuz/)
+
 
 ## Description
-A landing page for Delani Studio, with a contact section.
+This project is a web application for Delani studio. Through this web application, Delani business details about the services they offer. The application has information about the studio, a portfolio section and a form that enables users to send their messages and enquiries to Delani studios. 
 
 ## Technologies Used
     -> HTML
-    * CSS
-    * JS
-    * JQuery
+    -> CSS
+    -> JS
+    -> JQuery
 
-## How to setup (BDD)
+## Installation / Setup instruction
+* Open Terminal {Ctrl+Alt+T}
 
-1. Download or clone the project
-```shell
-foo@bar: ~$ git clone https://github.com/chunuz/Delani-Studio.git
-```
-2. Navigate to the cloned or downloaded folder
-1. Open index.html file with your browser
+* git clone https://github.com/chunuz/Delani-Studio.git
+
+* cd Delani-Studio
+
+* code . or atom . depending on the text editor of your choice.
+
+* Open index.html file with your browser
 
 ## Design
 
@@ -34,7 +40,7 @@ foo@bar: ~$ git clone https://github.com/chunuz/Delani-Studio.git
 
 To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
 
-Email: james.muthike@student.moringaschool.com
+Email: peter.njukia@student.moringaschool.com
 
 ## License
 Copyright (c) 2022 Moringa school
