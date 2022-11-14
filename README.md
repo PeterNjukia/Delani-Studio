@@ -24,7 +24,7 @@ This project is a web application for Delani studio. Through this web applicatio
 
     -> Launch the project in your favorite code editor. {code .}
 
-    * Open index.html file with your browser
+    -> Open index.html file with your browser
 
 ## Design
 
