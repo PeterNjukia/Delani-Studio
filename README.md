@@ -18,9 +18,9 @@ This project is a web application for Delani studio. Through this web applicatio
 ## Installation / Setup instruction
     -> Open Terminal {Ctrl+Alt+T}
 
-    * git clone https://github.com/chunuz/Delani-Studio.git
+    -> git clone https://github.com/chunuz/Delani-Studio.git
 
-    * cd Delani Studio wk3
+    -> cd Delani Studio wk3
 
     * code . or atom . depending on the text editor of your choice.
 
