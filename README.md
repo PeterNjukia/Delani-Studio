@@ -52,7 +52,7 @@ This project is a web application for Delani studio. Through this web applicatio
     > Email: Reach me on [Email](peter.njukia@student.moringaschool.com) 
 
 ## License
-Copyright (c) 2022 Moringa school
+Copyright (c) 2022 <Peter_Njukia>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files , to deal
