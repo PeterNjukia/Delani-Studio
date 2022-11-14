@@ -13,19 +13,27 @@ This project is a web application for Delani studio. Through this web applicatio
     -> HTML
     -> CSS
     -> Bootstrap
-    -> JS
+    -> Javascript
     -> JQuery
+    -> Markdown
 
 ## Installation / Setup instruction
-    -> Open Terminal {Ctrl+Alt+T}
+    > Open Terminal {Ctrl+Alt+T}
 
-    -> git clone https://github.com/chunuz/Delani-Studio.git
+    > git clone https://github.com/chunuz/Delani-Studio.git
 
-    -> cd Delani Studio wk3
+    > cd Delani Studio wk3
 
-    -> Launch the project in your favorite code editor. {code .}
+    > Launch the project in your favorite code editor. {code .}
 
-    -> Open index.html file with your browser
+    > Open index.html file with your browser
+
+## Behavior Driven Development - {BDD}
+ 1. Under what we do, clicking on the image will toggle a paragraph explaining about the service.
+ 2. Hovering over each image will show a white box with the name of the image.
+ 3. On entering your details and message in the contact-us form, the data will be sent to mailchimp. 
+ 4. You will receive a confirmation message thanking you for contacting them.
+ 5. If submit form is entered without any values, an alert message will pop-up telling you to put in valid information.
 
 ## Design
 
@@ -37,11 +45,11 @@ This project is a web application for Delani studio. Through this web applicatio
 ## Screenshot
 ![Screenshot](./screenshots/screenshot.png)
 
-## Contact
+## Contact/Collaboration
 
-* To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
+    > To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
 
-* Email: peter.njukia@student.moringaschool.com
+    > Email: Reach me on [Email](peter.njukia@student.moringaschool.com) 
 
 ## License
 Copyright (c) 2022 Moringa school
