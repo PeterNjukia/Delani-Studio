@@ -20,7 +20,7 @@ This project is a web application for Delani studio. Through this web applicatio
 
 * git clone https://github.com/chunuz/Delani-Studio.git
 
-* cd Delani-Studio
+* cd Delani Studio wk3
 
 * code . or atom . depending on the text editor of your choice.
 
