@@ -12,6 +12,7 @@ This project is a web application for Delani studio. Through this web applicatio
 ## Technologies Used
     -> HTML
     -> CSS
+    -> Bootstrap
     -> JS
     -> JQuery
 
