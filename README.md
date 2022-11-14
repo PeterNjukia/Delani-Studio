@@ -22,7 +22,7 @@ This project is a web application for Delani studio. Through this web applicatio
 
     -> cd Delani Studio wk3
 
-    -> code . or atom . depending on the text editor of your choice.
+    -> Launch the project in your favorite code editor. {code .}
 
     * Open index.html file with your browser
 
