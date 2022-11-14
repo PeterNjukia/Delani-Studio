@@ -39,7 +39,7 @@ This project is a web application for Delani studio. Through this web applicatio
 
 ![Design](./screenshots/design.jpg)
 
-## Demo
+## Live link Demo
 [Here is link to the site]( https://chunuz.github.io/Delani-Studio/)
 
 ## Screenshot
