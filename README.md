@@ -7,7 +7,7 @@ African culture is expressed in its arts and crafts, religion, clothing, cuisine
 
 
 ## Description
-This project is a web application for Delani studio. Through this web application, Delani business details about the services they offer. The application has information about the studio, a portfolio section and a form that enables users to send their messages and enquiries to Delani studios. 
+This project is a web application for Delani studio. Through this web application, Delani studio details about the services they offer. The application has information about the studio, a portfolio section and a form that enables users to send their messages and enquiries to them. 
 
 ## Technologies Used
     -> HTML
