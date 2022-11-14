@@ -31,7 +31,7 @@ This project is a web application for Delani studio. Through this web applicatio
 ## Behavior Driven Development - {BDD}
  1. Under what we do, clicking on the image will toggle a paragraph explaining about the service.
  2. Hovering over each image will show a white box with the name of the image.
- 3. On entering your details and message in the contact-us form, the data will be sent to mailchimp. 
+ 3. On entering your details and message in the contact-us form, the data will be sent to mailchimp. -{MailChimp API is integrated on the contacts.}
  4. You will receive a confirmation message thanking you for contacting them.
  5. If submit form is entered without any values, an alert message will pop-up telling you to put in valid information.
 
