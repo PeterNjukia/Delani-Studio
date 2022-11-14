@@ -6,7 +6,7 @@ African culture is expressed in its arts and crafts, religion, clothing, cuisine
 A landing page for Delani Studio, with a contact section.
 
 ## Technologies Used
-    ** HTML
+    -> HTML
     * CSS
     * JS
     * JQuery
