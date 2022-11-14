@@ -47,9 +47,9 @@ This project is a web application for Delani studio. Through this web applicatio
 
 ## Contact/Collaboration
 
-    > To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
+> To make a contribution to the code used or provide suggestions you can click on the contact link and email me your suggestions.
 
-    > Email: Reach me on [Email](peter.njukia@student.moringaschool.com) 
+> Email: Reach me on [Email](pnjukia@gmail.com) 
 
 ## License
 Copyright (c) 2022 <Peter_Njukia>
