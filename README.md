@@ -22,7 +22,7 @@ This project is a web application for Delani studio. Through this web applicatio
 
     > git clone https://github.com/chunuz/Delani-Studio.git
 
-    > cd Delani Studio wk3
+    > cd Delani_Studio_wk3
 
     > Launch the project in your favorite code editor. {code .}
 
