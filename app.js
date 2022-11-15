@@ -66,27 +66,5 @@ function clearForm() {
 
 removeFormErrors();
 
-// function suby(){
-//     pass
-// }
-
-// function suby1(){
-//     pass
-// }
-
-// function suby2(){
-//     pass
-// }
-
-// function suby3(){
-//     pass
-// }
-
-// function suby4(){
-//     pass
-// }
-
-
-
 
 
