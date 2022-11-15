@@ -53,8 +53,8 @@ function removeFormErrors() {
         if ($(this).hasClass("is-invalid")) {
             $(this).removeClass("is-invalid");
         }
-//     });
-// }
+    });
+}
 
 
 
