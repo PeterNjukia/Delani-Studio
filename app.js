@@ -66,34 +66,34 @@ function clearForm() {
 
 removeFormErrors();
 
-function suby(){
-    pass
-}
+// function suby(){
+//     pass
+// }
 
-function suby1(){
-    pass
-}
+// function suby1(){
+//     pass
+// }
 
-function suby2(){
-    pass
-}
+// function suby2(){
+//     pass
+// }
 
-function suby3(){
-    pass
-}
+// function suby3(){
+//     pass
+// }
 
-function suby4(){
-    pass
-}
+// function suby4(){
+//     pass
+// }
 
-function suby5(){
-    pass
-}
+// function suby5(){
+//     pass
+// }
 
-function suby6(){
-    pass
-}
+// function suby6(){
+//     pass
+// }
 
-function suby7(){
-    pass
-}
+// function suby7(){
+//     pass
+// }
