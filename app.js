@@ -48,7 +48,7 @@ function validateContactForm() {
     return isFormValid;
 }
 
-// function removeFormErrors() {
+function removeFormErrors() {
     // contactForm.find("input,textarea").on("keydown", function() {
         // if ($(this).hasClass("is-invalid")) {
         //     $(this).removeClass("is-invalid");
