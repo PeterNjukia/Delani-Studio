@@ -94,6 +94,3 @@ removeFormErrors();
 //     pass
 // }
 
-// function suby7(){
-//     pass
-// }
