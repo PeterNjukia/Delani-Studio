@@ -74,6 +74,6 @@ function suby1(){
     pass
 }
 
-function suby3(){
+function suby2(){
     pass
 }
