@@ -57,7 +57,7 @@ function removeFormErrors() {
 }
 
 function clearForm() {
-    contactForm.find("input,textarea").each(function() {
+    // contactForm.find("input,textarea").each(function() {
         // $(this).val("");
 //     });
 // }
