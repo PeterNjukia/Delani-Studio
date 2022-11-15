@@ -89,3 +89,7 @@ function suby4(){
 function suby5(){
     pass
 }
+
+function suby6(){
+    pass
+}
