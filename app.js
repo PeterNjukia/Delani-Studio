@@ -69,3 +69,7 @@ removeFormErrors();
 function suby(){
     pass
 }
+
+function suby1(){
+    pass
+}
