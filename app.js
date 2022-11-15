@@ -1,4 +1,4 @@
-var contactForm = $("#contact-form");
+// var contactForm = $("#contact-form");
 
 $(function() {
     // what we do titles add bold class and center
