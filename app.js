@@ -64,4 +64,4 @@ function clearForm() {
     });
 }
 
-// removeFormErrors();
+removeFormErrors();
