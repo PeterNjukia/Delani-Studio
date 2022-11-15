@@ -53,8 +53,10 @@ function removeFormErrors() {
         if ($(this).hasClass("is-invalid")) {
             $(this).removeClass("is-invalid");
         }
-    });
-}
+//     });
+// }
+
+
 
 // function clearForm() {
     // contactForm.find("input,textarea").each(function() {
