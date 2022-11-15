@@ -50,7 +50,7 @@ function validateContactForm() {
 
 function removeFormErrors() {
     contactForm.find("input,textarea").on("keydown", function() {
-        if ($(this).hasClass("is-invalid")) {
+        // if ($(this).hasClass("is-invalid")) {
         //     $(this).removeClass("is-invalid");
         // }
 //     });
