@@ -56,7 +56,7 @@ function removeFormErrors() {
     });
 }
 
-function clearForm() {
+// function clearForm() {
     // contactForm.find("input,textarea").each(function() {
         // $(this).val("");
 //     });
