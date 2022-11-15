@@ -93,3 +93,7 @@ function suby5(){
 function suby6(){
     pass
 }
+
+function suby7(){
+    pass
+}
